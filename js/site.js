@@ -7,16 +7,4 @@ document.addEventListener('DOMContentLoaded', function () {
       toggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
     });
   }
-
-  document.querySelectorAll('form[data-demo-form]').forEach(function (form) {
-    form.addEventListener('submit', function (e) {
-      e.preventDefault();
-      var note = form.querySelector('.form-note');
-      if (note) {
-        note.textContent = 'Thanks — we\'ll be in touch shortly.';
-        note.style.display = 'block';
-      }
-      form.reset();
-    });
-  });
 });

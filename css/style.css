@@ -187,6 +187,8 @@ p{ margin: 0 0 1em; max-width: 62ch; color: var(--ink); }
 .btn-ghost:hover{ border-color: var(--paper); }
 .btn-dark{ background: var(--ink); color: var(--paper); }
 .btn-dark:hover{ background: var(--sage-dark); }
+.btn-outline{ border-color: var(--line); color: var(--ink); }
+.btn-outline:hover{ border-color: var(--ink); }
 
 .hero-graphic{
   background: rgba(255,255,255,0.04);

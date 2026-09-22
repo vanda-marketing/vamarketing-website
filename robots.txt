@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.vamarketingagency.co.uk/sitemap.xml
