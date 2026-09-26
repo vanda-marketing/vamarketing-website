@@ -11,6 +11,11 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.vamarketingagency.co.uk/about.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.vamarketingagency.co.uk/services.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -31,23 +36,23 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.vamarketingagency.co.uk/post-ai-search-bible-translation-case-study.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.vamarketingagency.co.uk/post-google-ad-grants-for-christian-charities.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.vamarketingagency.co.uk/post-ppc-for-charities.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.vamarketingagency.co.uk/post-cladding-companies.html</loc>
+    <loc>https://www.vamarketingagency.co.uk/post-donor-education.html</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.vamarketingagency.co.uk/post-think-like-a-buyer.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.vamarketingagency.co.uk/post-elevating-fine-jeweller.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.6</priority>
   </url>
 </urlset>

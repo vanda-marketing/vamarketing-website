@@ -73,6 +73,16 @@ p{ margin: 0 0 1em; max-width: 62ch; color: var(--ink); }
   color: var(--ink);
   letter-spacing: -0.01em;
 }
+.logo-img{
+  display: block;
+  height: 46px;
+  width: auto;
+}
+.footer-logo-img{
+  display: block;
+  height: 40px;
+  width: auto;
+}
 .logo span{ color: var(--sage); }
 .nav-links{
   display: flex;
