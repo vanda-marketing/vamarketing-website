@@ -35,15 +35,115 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "V&A Marketing Agency",
-  "alternateName": "Christian Charity Digital Marketing Agency",
-  "url": "https://www.vamarketingagency.co.uk",
-  "logo": "https://www.vamarketingagency.co.uk/images/logo-wordmark.png",
-  "email": "info@vamarketingagency.co.uk",
-  "description": "V&A Marketing Agency is a Christian charity digital marketing agency, helping Christian charities grow through Google Ad Grants, SEO and targeted advertising.",
-  "areaServed": "GB",
-  "knowsAbout": ["Christian charity digital marketing", "Google Ad Grants", "SEO", "targeted advertising"]
+  "@graph": [
+    {
+      "@type": [
+        "Organization",
+        "ProfessionalService"
+      ],
+      "@id": "https://www.vamarketingagency.co.uk/#organization",
+      "name": "V&A Marketing Agency",
+      "alternateName": [
+        "V&A Agency",
+        "Christian Charity Digital Marketing Agency"
+      ],
+      "url": "https://www.vamarketingagency.co.uk/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.vamarketingagency.co.uk/images/logo-wordmark.png"
+      },
+      "image": "https://www.vamarketingagency.co.uk/images/logo-wordmark.png",
+      "email": "info@vamarketingagency.co.uk",
+      "description": "V&A Marketing Agency is a Christian charity marketing agency, helping Christian charities grow through search-led content, Google Ad Grants and targeted advertising.",
+      "slogan": "Walking alongside, not selling to.",
+      "foundingDate": "2008",
+      "founder": {
+        "@id": "https://www.vamarketingagency.co.uk/about.html#asif-valiji"
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "United Kingdom"
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Christian charities"
+      },
+      "knowsAbout": [
+        "Charity marketing",
+        "Christian charity digital marketing",
+        "Google Ad Grants",
+        "SEO",
+        "Targeted advertising",
+        "Membership and community strategy"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer service",
+        "email": "info@vamarketingagency.co.uk",
+        "areaServed": "GB",
+        "availableLanguage": "English"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Charity marketing services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Charity marketing strategy"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "SEO and keyword content"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Targeted advertising"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Google Ad Grant management"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Membership and community strategy"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.vamarketingagency.co.uk/#website",
+      "url": "https://www.vamarketingagency.co.uk/",
+      "name": "V&A Marketing Agency",
+      "publisher": {
+        "@id": "https://www.vamarketingagency.co.uk/#organization"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.vamarketingagency.co.uk/about.html#asif-valiji",
+      "name": "Asif Valiji",
+      "worksFor": {
+        "@id": "https://www.vamarketingagency.co.uk/#organization"
+      }
+    }
+  ]
 }
 </script>
 </head>
@@ -124,7 +224,7 @@
     <div class="section-head">
       <div class="kicker">How we work</div>
       <h2>Three ways to reach the right people</h2>
-      <p>Charities rarely need more traffic — they need the right supporters, applicants and buyers finding them at the right moment. We've found a combination of three approaches works best, each sharpening the other two.</p>
+      <p>Charities rarely need more traffic — they need the right supporters, applicants and buyers finding them at the right moment. We've found a combination of three approaches works best, each sharpening the other two. Read more about our approach to <a href="charity-marketing.html">charity marketing</a>.</p>
     </div>
     <div class="service-list">
       <div class="service-item">
@@ -214,6 +314,7 @@
           <li><a href="membership-community.html">Membership &amp; Community</a></li>
           <li><a href="packages.html">Packages</a></li>
           <li><a href="portfolio.html">Portfolio</a></li>
+          <li><a href="charity-marketing.html">Charity marketing</a></li>
           <li><a href="digital-marketing-for-charities.html">Google Ad Grants</a></li>
           <li><a href="blog.html">Blog</a></li>
           <li><a href="contact.html">Contact</a></li>

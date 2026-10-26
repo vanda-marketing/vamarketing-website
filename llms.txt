@@ -1,0 +1,26 @@
+# V&A Marketing Agency
+
+> V&A Marketing Agency is a Christian charity marketing agency based in the United Kingdom. We help Christian charities grow through search-led content (SEO), Google Ad Grant management, targeted advertising and membership and community strategy. We build long-term relationships: our average working period with charities is 12 to 24 months.
+
+Charity rates are set by annual income: £30 per hour (under £1m), £36 per hour (£1m to £3m), £50 per hour (over £3m). Contact: info@vamarketingagency.co.uk
+
+## Core pages
+- [Charity marketing](https://www.vamarketingagency.co.uk/charity-marketing.html): what charity marketing is, what a strategy includes, our process and FAQs
+- [Christian charity digital marketing and Google Ad Grants](https://www.vamarketingagency.co.uk/digital-marketing-for-charities.html): Ad Grant eligibility, setup and management
+- [Services](https://www.vamarketingagency.co.uk/services.html): SEO, targeted advertising, Ad Grants, membership and community, and our four-step process
+- [Packages and rates](https://www.vamarketingagency.co.uk/packages.html): package prices and hourly rates by charity income
+- [Membership and community](https://www.vamarketingagency.co.uk/membership-community.html): moving supporters from awareness to advocacy
+- [About](https://www.vamarketingagency.co.uk/about.html): our story and ethos
+
+## Case studies
+- [The Oxford Centre for Christian Apologetics](https://www.vamarketingagency.co.uk/case-occa.html)
+- [The Word For The World UK](https://www.vamarketingagency.co.uk/case-twftw.html)
+- [Gram Seed](https://www.vamarketingagency.co.uk/case-gram-seed.html)
+- [John Lennox](https://www.vamarketingagency.co.uk/case-john-lennox.html)
+
+## Guides
+- [Charity marketing strategy: a practical six-step guide](https://www.vamarketingagency.co.uk/post-charity-marketing-strategy.html)
+- [PPC for charities](https://www.vamarketingagency.co.uk/post-ppc-for-charities.html)
+- [Google Ad Grants for Christian charities](https://www.vamarketingagency.co.uk/post-google-ad-grants-for-christian-charities.html)
+- [Preparing for AI search](https://www.vamarketingagency.co.uk/post-ai-search-bible-translation-case-study.html)
+- [Donor education](https://www.vamarketingagency.co.uk/post-donor-education.html)
