@@ -75,12 +75,12 @@ p{ margin: 0 0 1em; max-width: 62ch; color: var(--ink); }
 }
 .logo-img{
   display: block;
-  height: 30px;
+  height: 46px;
   width: auto;
 }
 .footer-logo-img{
   display: block;
-  height: 26px;
+  height: 36px;
   width: auto;
 }
 .logo span{ color: var(--sage); }
